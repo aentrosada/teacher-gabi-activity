@@ -77,7 +77,7 @@ const App: React.FC = () => {
         }
       </main>
       <footer className="text-center py-6 text-gray-500 text-sm">
-        <p>Desenvolvido com IA Generativa. Criado com ❤️ para diversão sem fim.</p>
+        <p>Desenvolvido com IA Generativa por Thainá Cecília..</p>
       </footer>
     </div>
   );
